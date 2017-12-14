@@ -1,0 +1,33 @@
+/* add your CSS here */
+* {
+	color: #353030;
+}
+img {
+	width: 300px;
+	padding-bottom: 10px
+}
+ul li {
+	list-style-type: none;
+}
+.card {
+	width: 300px;
+  box-shadow: 0px 0px 5px 10px #F1E2E0;
+//border: 1px solid black;
+padding: 15px
+
+}
+.secondcard {
+	border: 1px solid #00000080;
+	    padding: 1px 10px;
+	color: #7C8B88
+}
+ul {
+	margin-left: -40px;
+}
+h3 {
+	font-family: sans-serif;
+	font-size: 30px;
+}
+p {
+	text-align: justify;
+}
